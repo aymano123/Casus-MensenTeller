@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace Casus_Blok3_MensenTeller
 {
     class Bedrijf_DAL
+        //aloooo wakanda
     {
 
         // Connectionstring die de connectie maakt naar de database
